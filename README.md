@@ -1,16 +1,14 @@
-## Hi there 👋
+# Привет! Я Ирина👋
 
-<!--
-**huikm-cloud/huikm-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Картинка из Pinterest -->
+![Мой баннер](<img width="735" height="925" alt="d99ab72b84547672c520e7396db508e1" src="https://github.com/user-attachments/assets/a0abda6c-f77f-4efa-b5a1-7ffecb78e547" />)
 
-Here are some ideas to get you started:
+## 🚀 Обо мне
+* 🎓 Студент в области веб-дизайна 
+* 💡 Увлекаюсь... курсами 
+* 🌱 Сейчас изучаю... программирование 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Мой стек технологий
+(`Python`, `HTML`, `Git`)
+
+
