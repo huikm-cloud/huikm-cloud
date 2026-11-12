@@ -1,7 +1,6 @@
 # Привет! Я Ирина👋
 
-<!-- Картинка из Pinterest -->
-![Мой баннер](<img width="735" height="925" alt="d99ab72b84547672c520e7396db508e1" src="https://github.com/user-attachments/assets/f345fcfa-54e3-4e0f-bc5f-9c9e41dc619c" />)
+!<img width="735" height="925" alt="d99ab72b84547672c520e7396db508e1" src="https://github.com/user-attachments/assets/f345fcfa-54e3-4e0f-bc5f-9c9e41dc619c" />
 
 ## 🚀 Обо мне
 * 🎓 Студент в области веб-дизайна 
